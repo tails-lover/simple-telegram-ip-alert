@@ -1,7 +1,7 @@
-Telegram Public IP Notifier
+<b>Telegram Public IP Notifier</b><br>
 A simple Python script to fetch your current public IP address and send it as a message to a specified Telegram chat via a bot. The script also supports sending custom messages and includes basic error handling and retries.
 
-Features
+<b>Features</b><br>
 Retrieves the public IP address using the api.ipify.org service.
 
 Sends messages to Telegram using the official Bot API.
@@ -16,19 +16,19 @@ User-friendly input prompts for Telegram Bot Token and Chat ID.
 
 Basic input validation and error handling.
 
-Use Cases
+<b>Use Cases</b><br>
 Keep track of dynamic public IP addresses remotely.
 
 Receive instant notifications about your network status.
 
 Send custom alerts or messages to Telegram.
 
-Requirements
+<b>Requirements</b><br>
 Python 3.x
 
 requests library (pip install requests)
 
-How to Use
+<b>How to Use</b><br>
 1. Create a Telegram bot and obtain the Bot API Token.
 
 2. Get your Telegram chat ID.
