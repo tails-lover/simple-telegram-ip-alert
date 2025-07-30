@@ -34,4 +34,4 @@ requests library (pip install requests)
 
 2. Get your Telegram chat ID.
 
-3. Run the script by `python3 main.py` and follow the prompts to send your public IP or a custom message to Telegram.
+3. Run the script with `python3 main.py` and follow the prompts to send your public IP or a custom message to Telegram.
